@@ -1,0 +1,28 @@
+{
+  "editions": [
+    {
+      "date": "2026-10-19",
+      "edition": 1,
+      "file": "editions/2026-10-19.html",
+      "title": "Week of Mon 19 Oct 2026",
+      "top_picks": [
+        {
+          "name": "Don McLean",
+          "when": "Wed 21 Oct, 7:30pm",
+          "venue": "Palais Theatre"
+        },
+        {
+          "name": "Throwdown: Melbourne United v SE Melbourne Phoenix",
+          "when": "Sat 14 Nov, 7:30pm",
+          "venue": "John Cain Arena"
+        },
+        {
+          "name": "Fiddler On The Roof",
+          "when": "Sat 31 Oct – Sun 27 Dec",
+          "venue": "Her Majesty's Theatre"
+        }
+      ],
+      "item_count": 46
+    }
+  ]
+}

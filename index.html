@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ron's Melbourne Outings</title>
+<link rel="stylesheet" href="outings.css">
+</head>
+<body>
+<div class="wrap">
+<header><h1>Ron's Melbourne Outings</h1>
+<p class="sub">A weekly guide to hikes, rides, gigs, comedy, sport, theatre and markets around Melbourne. Newest edition first.</p></header>
+<ul class="editions" id="editions"><!-- EDITIONS --><li><a href="editions/2026-10-19.html"><strong>Mon 19 Oct 2026</strong></a> – Don McLean; Throwdown: Melbourne United v SE Melbourne Phoenix; Fiddler On The Roof</li><!-- /EDITIONS --></ul>
+</div>
+<script>
+(function () {
+  var fmt = function (iso) {
+    return new Date(iso + "T00:00:00").toLocaleDateString("en-AU", { weekday: "short", day: "numeric", month: "short", year: "numeric" });
+  };
+  var esc = function (s) { var d = document.createElement("div"); d.textContent = s; return d.innerHTML; };
+  fetch("editions.json?v=" + Date.now()).then(function (r) { return r.json(); }).then(function (j) {
+    var eds = j.editions.slice().sort(function (a, b) { return a.date < b.date ? 1 : -1; });
+    document.getElementById("editions").innerHTML = eds.map(function (x, i) {
+      return '<li class="edition"><a href="' + esc(x.file) + '">'
+        + '<span class="ed-date">' + esc(fmt(x.date)) + (i === 0 ? ' <span class="tag">Latest</span>' : '') + '</span>'
+        + '<span class="ed-sub">Edition ' + esc(String(x.edition || "")) + ' · ' + esc(String(x.item_count || "")) + ' events</span>'
+        + '<ul class="ed-tops">' + x.top_picks.map(function (t) {
+            return '<li><strong>' + esc(t.name) + '</strong> · ' + esc(t.when) + ' · ' + esc(t.venue) + '</li>';
+          }).join("") + '</ul></a></li>';
+    }).join("");
+  }).catch(function (e) { console.error(e); });
+})();
+</script>
+</body>
+</html>
