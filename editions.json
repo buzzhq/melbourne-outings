@@ -1,6 +1,30 @@
 {
   "editions": [
     {
+      "date": "2026-10-22",
+      "edition": 2,
+      "file": "editions/2026-10-22.html",
+      "title": "Week of Thu 22 Oct 2026",
+      "top_picks": [
+        {
+          "name": "Bon Jovi: Forever Tour",
+          "when": "Thu 4 Mar 2027",
+          "venue": "Marvel Stadium"
+        },
+        {
+          "name": "Bryan Adams: Bare Bones (acoustic, new show)",
+          "when": "Sat 20 Mar 2027",
+          "venue": "Costa Hall, Geelong"
+        },
+        {
+          "name": "Hasan Minhaj and Ronny Chieng: A Debate to the Death",
+          "when": "Sat 19 Dec, 8pm",
+          "venue": "Palais Theatre"
+        }
+      ],
+      "item_count": 42
+    },
+    {
       "date": "2026-10-19",
       "edition": 1,
       "file": "editions/2026-10-19.html",
