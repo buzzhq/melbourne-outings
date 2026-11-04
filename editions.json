@@ -1,6 +1,30 @@
 {
   "editions": [
     {
+      "date": "2026-11-05",
+      "edition": 3,
+      "file": "editions/2026-11-05.html",
+      "title": "Week of Thu 5 Nov 2026",
+      "top_picks": [
+        {
+          "name": "Ann Wilson & Tripsitter: The Voice of Heart, with Dragon",
+          "when": "Sun 29 Nov, 7:30pm",
+          "venue": "Palais Theatre, St Kilda"
+        },
+        {
+          "name": "Dara Ó Briain: Re:Creation",
+          "when": "Mon 9 Nov",
+          "venue": "Hamer Hall"
+        },
+        {
+          "name": "Throwdown 35: Melbourne United v SE Melbourne Phoenix",
+          "when": "Sat 14 Nov, 7:30pm",
+          "venue": "John Cain Arena"
+        }
+      ],
+      "item_count": 41
+    },
+    {
       "date": "2026-10-22",
       "edition": 2,
       "file": "editions/2026-10-22.html",
