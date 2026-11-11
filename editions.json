@@ -1,6 +1,30 @@
 {
   "editions": [
     {
+      "date": "2026-11-12",
+      "edition": 4,
+      "file": "editions/2026-11-12.html",
+      "title": "Week of Thu 12 Nov 2026",
+      "top_picks": [
+        {
+          "name": "The Wallflowers: 30 Years of Bringing Down the Horse",
+          "when": "Fri 4 Dec, 8:30pm",
+          "venue": "Palais Theatre, St Kilda"
+        },
+        {
+          "name": "Suzi Quatro, with Baby Animals",
+          "when": "Thu 3 Dec (2 Dec sold out)",
+          "venue": "Palais Theatre, St Kilda"
+        },
+        {
+          "name": "Ali Wong",
+          "when": "Fri 18 & Sat 19 Jun 2027",
+          "venue": "Palais Theatre"
+        }
+      ],
+      "item_count": 30
+    },
+    {
       "date": "2026-11-05",
       "edition": 3,
       "file": "editions/2026-11-05.html",
