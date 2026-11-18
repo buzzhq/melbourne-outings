@@ -1,6 +1,30 @@
 {
   "editions": [
     {
+      "date": "2026-11-19",
+      "edition": 5,
+      "file": "editions/2026-11-19.html",
+      "title": "Week of Thu 19 Nov 2026",
+      "top_picks": [
+        {
+          "name": "Guns N' Roses: World Tour 2026, with Airbourne",
+          "when": "Fri 11 Dec",
+          "venue": "Marvel Stadium"
+        },
+        {
+          "name": "Stewart Copeland: Police Deranged for Orchestra",
+          "when": "Sat 28 Aug 2027",
+          "venue": "Palais Theatre, St Kilda"
+        },
+        {
+          "name": "David Cross: Fake Joy",
+          "when": "Thu 15 & Fri 16 Apr 2027",
+          "venue": "Comedy Theatre (Melbourne International Comedy Festival)"
+        }
+      ],
+      "item_count": 46
+    },
+    {
       "date": "2026-11-12",
       "edition": 4,
       "file": "editions/2026-11-12.html",
