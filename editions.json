@@ -1,6 +1,30 @@
 {
   "editions": [
     {
+      "date": "2026-11-26",
+      "edition": 6,
+      "file": "editions/2026-11-26.html",
+      "title": "Week of Thu 26 Nov 2026",
+      "top_picks": [
+        {
+          "name": "TISM, The Bamboos (with Tim Rogers and WILSN) and Automatic: 3RRR 50th birthday show",
+          "when": "Sat 28 Nov, from 6:15pm",
+          "venue": "Federation Square"
+        },
+        {
+          "name": "Billy Idol: It's A Nice Day To... Tour Again!",
+          "when": "Thu 1 & Sat 3 Apr 2027",
+          "venue": "Crown Live, Southbank"
+        },
+        {
+          "name": "The Jacksons",
+          "when": "Sat 22 May 2027, 7:30pm",
+          "venue": "Margaret Court Arena"
+        }
+      ],
+      "item_count": 47
+    },
+    {
       "date": "2026-11-19",
       "edition": 5,
       "file": "editions/2026-11-19.html",

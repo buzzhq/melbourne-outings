@@ -1,0 +1,448 @@
+{
+ "date": "2026-11-26",
+ "edition": 6,
+ "title": "Week of Thu 26 Nov 2026",
+ "items": [
+  {
+   "section": "Hikes",
+   "name": "Rainforest Gallery and Mt Donna Buang, Yarra Ranges NP",
+   "url": "https://www.parks.vic.gov.au/places-to-see/parks/yarra-ranges-national-park/attractions/warburton-donna-buang-and-the-upper-yarra/things-to-do/rainforest-gallery",
+   "when": "Any day (a cool-weather escape on hot days)",
+   "venue": "Acheron Way / Donna Buang Rd, above Warburton",
+   "price": "Free",
+   "note": "A 40 m elevated walkway 15 m above cool temperate rainforest, with Mountain Ash and Myrtle Beech up to 400 years old, plus a 20-minute stair walk along Cement Creek; then the 1.2 km-high summit lookout. Check the fire danger rating before heading to the ranges."
+  },
+  {
+   "section": "Hikes",
+   "name": "Warburton Redwood Forest and Cement Creek loop",
+   "url": "https://www.parks.vic.gov.au/places-to-see/parks/yarra-ranges-national-park/attractions/warburton-donna-buang-and-the-upper-yarra/things-to-do/redwood-forest",
+   "when": "Any day; go mid-week or early to beat crowds",
+   "venue": "Cement Creek Rd, East Warburton",
+   "price": "Free",
+   "note": "Over 1,470 Californian redwoods, planted in the 1930s and now 55 m tall, in shady rows; loop down to the Yarra through ferns, or do the 16 km return O'Shannassy Aqueduct Trail from Yuonga Rd. Shade makes it a good warm-day pick."
+  },
+  {
+   "section": "Hikes",
+   "name": "Two Bays Walking Trail, Mornington Peninsula",
+   "url": "https://www.parks.vic.gov.au/places-to-see/parks/mornington-peninsula-national-park/things-to-do/two-bays-walking-trail",
+   "when": "Any day (do a section, or all 26 km in long summer daylight)",
+   "venue": "Dromana to Cape Schanck (about 60 km from Melbourne)",
+   "price": "Free",
+   "note": "Blue-wren-signed trail from Arthurs Seat's steep gravel climbs through Greens Bush to the Cape Schanck cliffs; carry plenty of water and start early on warm days."
+  },
+  {
+   "section": "Hikes",
+   "name": "Darby River to Tongue Point, Wilsons Promontory NP",
+   "url": "https://www.parks.vic.gov.au/places-to-see/parks/wilsons-promontory-national-park/things-to-do/darby-river-to-tongue-point",
+   "when": "Any day",
+   "venue": "Darby River carpark, Wilsons Prom (about 3 hrs from Melbourne)",
+   "price": "Free",
+   "note": "A coastal walk over an ancient dune and granite-studded heath to Tongue Point, with a detour to sheltered Fairy Cove for a swim; wallabies are common. A summer day trip or weekend away."
+  },
+  {
+   "section": "Bike",
+   "name": "Arthurs Seat State Park mountain bike trails",
+   "url": "https://www.parks.vic.gov.au/places-to-see/parks/arthurs-seat-state-park/things-to-do/mountain-bike-riding-in-arthurs-seat-state-park",
+   "when": "Any day",
+   "venue": "Seawinds, Upper or Hillview (Dromana) carparks, Arthurs Seat",
+   "price": "Free",
+   "note": "Over 25 km of singletrack and management tracks on steep rocky terrain, for all abilities; Hillview has water and a bike repair station, the others need your own water."
+  },
+  {
+   "section": "Bike",
+   "name": "Forrest Mountain Bike Trails, Great Otway NP",
+   "url": "https://www.rideforrest.com.au/",
+   "when": "Any day (built for year-round riding)",
+   "venue": "Forrest, Otways (about 2.5 hrs from Melbourne)",
+   "price": "Free",
+   "note": "About 70 km of singletrack and new flow trails through tall eucalypts, native bush and fern gullies, from a small-town base; the Otways' cool forest suits early summer."
+  },
+  {
+   "section": "Bike",
+   "name": "Port Fairy Rail Trail",
+   "url": "https://www.railtrails.org.au/trails/port-fairy-warrnambool-rail-trail/",
+   "when": "Any day",
+   "venue": "Warrnambool to Port Fairy (about 260 km SW of Melbourne)",
+   "price": "Free",
+   "note": "38 km of asphalt and fine gravel past Koroit and Tower Hill to Port Fairy, about two hours' brisk riding; pair it with a Great Ocean Road summer weekend."
+  },
+  {
+   "section": "Bike",
+   "name": "East Gippsland Rail Trail",
+   "url": "https://www.railtrails.org.au/trails/east-gippsland-rail-trail/",
+   "when": "Any day",
+   "venue": "Bairnsdale to Orbost (about 280 km east of Melbourne)",
+   "price": "Free",
+   "note": "96 km through farmland and forest with old trestle bridges and Gippsland Lakes glimpses, ending at the long Snowy River trestle; good as a multi-day summer tour."
+  },
+  {
+   "section": "Music",
+   "top": true,
+   "name": "TISM, The Bamboos (with Tim Rogers and WILSN) and Automatic: 3RRR 50th birthday show",
+   "url": "https://themusic.com.au/news/tism-lead-line-up-3rrr-fed-square-birthday/Lm6MICMiJSQ/25-11-26",
+   "when": "Sat 28 Nov, from 6:15pm",
+   "end": "2026-11-28",
+   "venue": "Federation Square",
+   "price": "Free",
+   "note": "This Saturday: Triple R's second free birthday concert, led by masked Melbourne cult heroes TISM. Same day as the state election, so vote first."
+  },
+  {
+   "section": "Music",
+   "name": "Ann Wilson & Tripsitter: The Voice of Heart, with Dragon",
+   "url": "https://www.palaistheatre.com.au/all-events/ann-wilson-tickets-ae1307236",
+   "when": "Sun 29 Nov",
+   "end": "2026-11-29",
+   "venue": "Palais Theatre, St Kilda",
+   "note": "News: it's this Sunday. Heart's Rock and Roll Hall of Fame singer plays the Heart classics, with Dragon (April Sun in Cuba) opening; tickets still on sale."
+  },
+  {
+   "section": "Music",
+   "name": "Live at the Gardens: SIX60, DMA'S and Cat Power",
+   "url": "https://liveatthegardens.com.au/upcoming/",
+   "when": "Fri 27 Nov (SIX60), Sat 28 Nov (DMA'S), Thu 3 Dec (Cat Power)",
+   "end": "2026-12-03",
+   "venue": "Observatory Lawn, Royal Botanic Gardens Melbourne",
+   "note": "The open-air series starts tomorrow: final tickets for SIX60 and DMA'S, and Cat Power plays her album The Greatest in full for its 20th anniversary."
+  },
+  {
+   "section": "Music",
+   "name": "The Dandy Warhols",
+   "url": "https://www.palaistheatre.com.au/all-events/the-dandy-warhols-tickets-ae3835",
+   "when": "Thu 10 Dec, 8:30pm",
+   "end": "2026-12-10",
+   "venue": "Palais Theatre, St Kilda",
+   "note": "The cult Portland alt-rockers (Bohemian Like You) touring their new covers album Pin Ups, with Nice Biscuit supporting."
+  },
+  {
+   "section": "Music",
+   "name": "Jimmy Eat World: Bleed American 25th Anniversary Tour",
+   "url": "https://margaretcourtarena.com.au/event/jimmy-eat-world-bleed-american-25th-anniversary-tour-melbourne-2026/",
+   "when": "Fri 11 Dec, 7pm",
+   "end": "2026-12-11",
+   "venue": "Margaret Court Arena",
+   "note": "The 2001 album behind The Middle and Sweetness, played for its 25th anniversary."
+  },
+  {
+   "section": "Music",
+   "name": "Vision Australia's Carols by Candlelight",
+   "url": "https://carols.visionaustralia.org/tickets",
+   "when": "Thu 24 Dec (rehearsal night Wed 23 Dec)",
+   "end": "2026-12-24",
+   "venue": "Sidney Myer Music Bowl",
+   "price": "GA $88 adult, $189 family; rehearsal GA from $41",
+   "note": "Melbourne's Christmas Eve tradition, live from the Bowl; the cheaper rehearsal night is a relaxed way to go with kids."
+  },
+  {
+   "section": "Tours",
+   "top": true,
+   "name": "Billy Idol: It's A Nice Day To... Tour Again!",
+   "url": "https://www.melbourning.com.au/2026/11/23/billy-idol-announces-2027-australian-tour-with-two-melbourne-shows/",
+   "when": "Thu 1 & Sat 3 Apr 2027",
+   "end": "2027-04-03",
+   "venue": "Crown Live, Southbank",
+   "note": "Just announced: his first Australian tour since 2020, opening in Melbourne, weeks after his Rock and Roll Hall of Fame induction. Live Nation presale today, general sale tomorrow (Fri 27 Nov) 11am."
+  },
+  {
+   "section": "Tours",
+   "top": true,
+   "name": "The Jacksons",
+   "url": "https://margaretcourtarena.com.au/event/the-jacksons-melbourne-2027/",
+   "when": "Sat 22 May 2027, 7:30pm",
+   "end": "2027-05-22",
+   "venue": "Margaret Court Arena",
+   "note": "Original Jackson 5 members Jackie and Marlon play I Want You Back, ABC and Blame It on the Boogie, their first Australian visit since 2019; on sale now."
+  },
+  {
+   "section": "Tours",
+   "name": "Smokie (UK): Greatest Hits Tour",
+   "url": "https://www.palaistheatre.com.au/all-events/smokie-tickets-ae2130",
+   "when": "Fri 12 Mar 2027, 7pm",
+   "end": "2027-03-12",
+   "venue": "Palais Theatre, St Kilda",
+   "note": "The 70s soft-rock band of Living Next Door to Alice and Lay Back in the Arms of Someone, a huge seller in Australia; on sale now."
+  },
+  {
+   "section": "Tours",
+   "name": "Mental As Anything with the Berserk Warriors Orchestra",
+   "url": "https://themusic.com.au/news/mental-as-anything-to-reimagine-hits-live-orchestra-2027/DEyyHgEAAwI/24-11-26",
+   "when": "Sat 6 Feb 2027, 2pm & 8pm",
+   "end": "2027-02-06",
+   "venue": "Ian Potter State Theatre, Arts Centre Melbourne",
+   "note": "Two world-premiere shows of Live It Up and other hits with a 35-piece orchestra, arranged by The Cat Empire's Roscoe James Irwin; tickets from today (Thu 26 Nov) via Arts Centre Melbourne."
+  },
+  {
+   "section": "Tours",
+   "name": "Ronan Keating: Just Getting Started World Tour",
+   "url": "https://margaretcourtarena.com.au/event/ronan-keating-just-getting-started-world-tour-melbourne-2027/",
+   "when": "Sat 13 Mar 2027, 7:30pm",
+   "end": "2027-03-13",
+   "venue": "Margaret Court Arena",
+   "note": "Boyzone classics and solo hits like When You Say Nothing At All."
+  },
+  {
+   "section": "Tours",
+   "name": "Brooks & Dunn: Neon Moon Tour 2027",
+   "url": "https://frontiertouring.com/brooksanddunn",
+   "when": "Sat 27 Mar 2027",
+   "end": "2027-03-27",
+   "venue": "Rod Laver Arena",
+   "price": "$199–$299 (A–C Reserve)",
+   "note": "The country duo with Ashley McBryde and Mack Geiger; on sale now."
+  },
+  {
+   "section": "Comedy",
+   "top": false,
+   "name": "Hasan Hates Ronny | Ronny Hates Hasan (Hasan Minhaj and Ronny Chieng)",
+   "url": "https://www.palaistheatre.com.au/all-events/hasan-minhaj-tickets-ae1385168",
+   "when": "Sat 19 Dec: new earlier show (doors 4pm) plus 8pm show",
+   "end": "2026-12-19",
+   "venue": "Palais Theatre, St Kilda",
+   "note": "News: a second, earlier show has been added on the day. The Daily Show alumni stage a 'debate to the death' about America and each other; MA15+."
+  },
+  {
+   "section": "Comedy",
+   "name": "Adam Kay: 'Twas the Nightshift Before Christmas",
+   "url": "https://www.adamkay.co.uk/",
+   "when": "Tue 15 Dec",
+   "end": "2026-12-15",
+   "venue": "Hamer Hall, Arts Centre Melbourne",
+   "note": "The ex-doctor behind This Is Going to Hurt, with festive tales from hospital night shifts; tickets still available for Melbourne."
+  },
+  {
+   "section": "Comedy",
+   "name": "Melbourne International Comedy Festival: Opening Night Allstars Supershow",
+   "url": "https://www.palaistheatre.com.au/all-events/melbourne-international-comedy-festival-allstars-tickets-ae1407936",
+   "when": "Wed 24 Mar 2027, 7:30pm",
+   "end": "2027-03-24",
+   "venue": "Palais Theatre, St Kilda",
+   "note": "Just announced: local legends and international headliners in one filmed show that kicks off the 2027 festival; 16+."
+  },
+  {
+   "section": "Comedy",
+   "name": "Jameela Jamil: Prison of Perfection",
+   "url": "https://au.variety.com/2026/tv/news/jameela-jamil-to-bring-prison-of-perfection-tour-to-australia-in-2027-42528/",
+   "when": "Wed 3 Mar 2027",
+   "end": "2027-03-03",
+   "venue": "Hamer Hall",
+   "note": "The Good Place's Tahani in a live show on perfectionism and fame, with a special guest and Q&A; more conversation than straight stand-up."
+  },
+  {
+   "section": "Comedy",
+   "name": "Lucy Darling: Cheers, with Tom Cardy",
+   "url": "https://www.palaistheatre.com.au/all-events/lucy-darling-tickets-ae1711344",
+   "when": "Tue 2 – Thu 4 Mar 2027",
+   "end": "2027-03-04",
+   "venue": "Palais Theatre, St Kilda",
+   "note": "Just announced: Carisa Hendrix's cocktail-sipping socialite mixes quick wit and magic, joined by musical comic Tom Cardy."
+  },
+  {
+   "section": "Sport",
+   "top": false,
+   "name": "Australian Open 2027 and the Million-Dollar AO 1 Point Slam",
+   "url": "https://ausopen.com/articles/news/ao-2027-unveils-biggest-ever-fan-experience-stars-confirmed-million-dollar-ao-1-point",
+   "when": "11–31 Jan 2027; 1 Point Slam final Wed 13 Jan",
+   "end": "2027-01-31",
+   "venue": "Melbourne Park",
+   "price": "Opening Week adults $10, kids $5 (free on day one); 1 Point Slam from $59",
+   "note": "News: early-bird Ground Pass pricing ends Mon 30 Nov. Sinner, Alcaraz, Gauff and Osaka are signed up for the 1 Point Slam at Rod Laver Arena."
+  },
+  {
+   "section": "Sport",
+   "name": "BBL|16 Melbourne Derbies at the MCG: Stars v Renegades",
+   "url": "https://www.mcg.org.au/events/2027/january/bbl16-melbourne-stars-v-melbourne-renegades",
+   "when": "Mon 4 Jan, 6:05pm (and Renegades v Stars Sat 16 Jan, 7:15pm)",
+   "end": "2027-01-16",
+   "venue": "MCG",
+   "note": "Both cross-town Big Bash derbies are at the 'G in January school holidays; on sale now via Ticketek."
+  },
+  {
+   "section": "Basketball",
+   "name": "Boomers v Iran and v Jordan (FIBA World Cup 2027 qualifiers)",
+   "url": "https://www.australia.basketball/news/4609895/boomers-select-roster-for-world-cup-qualification-clincher",
+   "when": "Fri 27 Nov, 8pm & Sun 29 Nov, 11pm",
+   "end": "2026-11-29",
+   "venue": "Seremban, Malaysia (watch on TV)",
+   "note": "No NBL games in Melbourne this weekend because of the FIBA window. The 8–0 Boomers need one win to reach Qatar 2027; United's Tom Wilson is in the squad."
+  },
+  {
+   "section": "Basketball",
+   "name": "Melbourne United v Brisbane Bullets",
+   "url": "https://johncainarena.com.au/event/melbourne-united-vs-brisbane-bullets-round-11-2026-27/",
+   "when": "Sun 6 Dec, 3pm",
+   "end": "2026-12-06",
+   "venue": "John Cain Arena",
+   "note": "News: United's first home game after the FIBA break, billed as the Member Appreciation Game; they are 9–6."
+  },
+  {
+   "section": "Basketball",
+   "name": "Melbourne United v Cairns Taipans (Open Air Game)",
+   "url": "https://www.melbourneutd.com.au/news/blockbuster-home-games-highlight-nbl27-schedule",
+   "when": "Wed 23 Dec, 8pm",
+   "end": "2026-12-23",
+   "venue": "John Cain Arena",
+   "note": "News: billed as the 'original and best Open Air Game' (an Ignite Cup game), a pre-Christmas summer-evening one."
+  },
+  {
+   "section": "Basketball",
+   "name": "SE Melbourne Phoenix January home games",
+   "url": "https://www.nbl.com.au/club-schedule/sem",
+   "when": "Wed 6 Jan 5:30pm (v Tasmania), Sun 10 Jan 3pm (v NZ Breakers), Thu 21 Jan 7:30pm (v Adelaide), Sun 24 Jan 5pm (v Perth)",
+   "end": "2027-01-24",
+   "venue": "State Basketball Centre, Wantirna South",
+   "note": "All four January games are at the Phoenix's 'Heartland' venue while the Australian Open takes over Melbourne Park; good school-holiday outings, on sale now."
+  },
+  {
+   "section": "Basketball",
+   "name": "Melbourne United in Bendigo",
+   "url": "https://pages.melbourneutd.com.au/united-in-bendigo-nbl27/",
+   "when": "Thu 7 Jan, 7:30pm (v Adelaide, Pride Round) & Wed 20 Jan, 5:30pm (v Tasmania)",
+   "end": "2027-01-20",
+   "venue": "Red Energy Arena, Bendigo",
+   "note": "United's January home games are in Bendigo while the Australian Open is on; pair one with a holiday day trip."
+  },
+  {
+   "section": "Theatre",
+   "top": false,
+   "name": "The Live Aid Musical: Just For One Day",
+   "url": "https://marrinergroup.com.au/shows/the-live-aid-musical-just-for-one-day",
+   "when": "From May 2027 (waitlist open)",
+   "venue": "Princess Theatre",
+   "note": "The story of the 1985 concert 'the day rock 'n' roll changed the world', the one with Queen, Bowie and Sting; join the waitlist for first access."
+  },
+  {
+   "section": "Theatre",
+   "name": "Fiddler on the Roof",
+   "url": "https://hmt.com.au/fiddler-on-the-roof/",
+   "when": "Until Sun 27 Dec",
+   "end": "2026-12-27",
+   "venue": "Her Majesty's Theatre",
+   "note": "News: final month of the season. Tevye, Anatevka and 'Tradition', a good pick for a family night out before it closes."
+  },
+  {
+   "section": "Theatre",
+   "name": "Disney's The Lion King",
+   "url": "https://marrinergroup.com.au/shows/the-lion-king",
+   "when": "From Thu 25 Mar 2027 (strictly limited season)",
+   "end": "2027-06-13",
+   "venue": "Regent Theatre",
+   "note": "The Broadway spectacle returns to Melbourne; tickets on sale through Marriner Group, with no transaction fees."
+  },
+  {
+   "section": "Theatre",
+   "name": "Private Lives",
+   "url": "https://marrinergroup.com.au/shows/private-lives",
+   "when": "18 Mar – 18 Apr 2027",
+   "end": "2027-04-18",
+   "venue": "Princess Theatre",
+   "note": "Hugh Bonneville (Downton Abbey) and Lisa McCune in Noël Coward's sparkling comedy of divorced lovers."
+  },
+  {
+   "section": "Theatre",
+   "name": "Dinosaur World Live",
+   "url": "https://marrinergroup.com.au/shows/dinosaur-world-live",
+   "when": "30 Dec – 3 Jan",
+   "end": "2027-01-03",
+   "venue": "Comedy Theatre",
+   "price": "Save $5 a ticket on 4 or more",
+   "note": "A 50-minute school-holiday show of giant dinosaur puppets, ages 3 and up."
+  },
+  {
+   "section": "Exhibitions",
+   "top": false,
+   "name": "Barbie: The Exhibition",
+   "url": "https://museumsvictoria.com.au/melbournemuseum/whats-on/barbie-the-exhibition/",
+   "when": "Opens Sat 28 Nov, to 16 May 2027",
+   "end": "2027-05-16",
+   "venue": "Melbourne Museum, Carlton",
+   "price": "Adult $30, child $20 (includes museum entry)",
+   "note": "News: opens this Saturday. 250+ dolls from London's Design Museum, including the 1959 Number 1 Barbie and the 1962 Dreamhouse; low-sensory sessions from 3 Dec."
+  },
+  {
+   "section": "Exhibitions",
+   "name": "David Bowie: Southern Moonlight by Denis O'Regan",
+   "url": "https://themusic.com.au/news/david-bowie-southern-moonlight-photography-exhibition-australia-2027/nd8jsbCzsrU/25-11-26",
+   "when": "Thu 14 – Sun 17 Jan 2027",
+   "end": "2027-01-17",
+   "venue": "306–308 Brunswick St, Fitzroy",
+   "note": "Just announced: never-before-seen tour photos, including rare Australian moments, from Bowie's long-time photographer, marking his 80th birthday; a four-day pop-up."
+  },
+  {
+   "section": "Exhibitions",
+   "name": "Colour: See the World in a New Light",
+   "url": "https://museumsvictoria.com.au/scienceworks/whats-on/colour/",
+   "when": "Until Tue 26 Jan 2027",
+   "end": "2027-01-26",
+   "venue": "Scienceworks, Spotswood",
+   "note": "Hands-on Questacon exhibition with 21 exhibits on colour, light and illusions, aimed at ages 5–14; in its final summer, a good school-holiday visit.",
+   "price": "Adult $25, child $10 (includes Scienceworks entry)"
+  },
+  {
+   "section": "Exhibitions",
+   "name": "Myer Christmas Windows: Toy Story",
+   "url": "https://whatson.melbourne.vic.gov.au/things-to-do/myer-christmas-windows",
+   "when": "Now until Tue 5 Jan, 10am–8pm",
+   "end": "2027-01-05",
+   "venue": "Myer Melbourne, Bourke St Mall",
+   "price": "Free",
+   "note": "The 71st season brings Pixar's Merry Christmas Woody to life across six windows."
+  },
+  {
+   "section": "Markets",
+   "top": false,
+   "name": "Chanukah: Pillars of Light 2026",
+   "url": "https://fedsquare.com/events/pillars-of-light",
+   "when": "Fri 4 – Fri 11 Dec (evenings; no event Sat 5 Dec)",
+   "end": "2026-12-11",
+   "venue": "Federation Square, Main Square",
+   "price": "Free",
+   "note": "The Ark Centre's week-long Chanukah festival, with Deborah Conway and Willy Zygier (4 Dec), the MSO with the Lamm Jewish Library (8 Dec) and klezmer (9 Dec)."
+  },
+  {
+   "section": "Markets",
+   "name": "Melbourne Makers' Market and St Paul's Market",
+   "url": "https://www.rosestmarket.com.au/upcoming-events",
+   "when": "Sat 28 Nov, 10am–3pm",
+   "end": "2026-11-28",
+   "venue": "City Square and St Paul's Cathedral (Swanston St)",
+   "note": "This Saturday: two curated 40-maker art and design markets a block apart, handy for early Christmas gifts."
+  },
+  {
+   "section": "Markets",
+   "name": "Christmas Square",
+   "url": "https://whatson.melbourne.vic.gov.au/things-to-do/christmas-square",
+   "when": "Fri 27 Nov – Fri 25 Dec",
+   "end": "2026-12-25",
+   "venue": "Federation Square",
+   "price": "Free",
+   "note": "Opens tomorrow: the 17.5 m tree with light and sound shows and glowing bell swings (no tree shows Sat 28 Nov)."
+  },
+  {
+   "section": "Markets",
+   "name": "Heide Market",
+   "url": "https://www.rosestmarket.com.au/upcoming-events",
+   "when": "Sat 12 Dec, 10am–3pm",
+   "end": "2026-12-12",
+   "venue": "Heide Museum of Modern Art, Bulleen",
+   "note": "Over 120 makers in Heide's sculpture park and gardens; combine it with the Love Letters exhibition inside."
+  },
+  {
+   "section": "Markets",
+   "name": "Christmas Carnival",
+   "url": "https://whatson.melbourne.vic.gov.au/things-to-do/christmas-carnival",
+   "when": "Fri 11 – Thu 24 Dec, 2pm–10:30pm",
+   "end": "2026-12-24",
+   "venue": "Birrarung Marr",
+   "price": "Free entry; rides $8 kids, from $12 adults",
+   "note": "Ferris wheel, dodgems and the 60 m Sky Flyer XXL by the river, with carnival food."
+  },
+  {
+   "section": "Markets",
+   "name": "Coburg Night Market",
+   "url": "https://www.merri-bek.vic.gov.au/exploring-merri-bek/arts-merri-bek/festivals-and-major-events/coburg-night-market/",
+   "when": "Thu 17 & Fri 18 Dec 5–10pm, Sat 19 Dec 2–10pm",
+   "end": "2026-12-19",
+   "venue": "Bridges Reserve, Bell St, Coburg",
+   "note": "Three summer nights of street food from 25 vendors, 40+ local makers, live music and kids' workshops."
+  }
+ ]
+}
